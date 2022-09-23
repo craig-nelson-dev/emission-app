@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "web",
+    "api"
+  ],
+  "scripts": {
+    "dev": "yarn api:dev & yarn web:dev",
+    "web:dev": "yarn workspace web dev",
+    "api:dev": "yarn workspace api dev"
+  }
+}
