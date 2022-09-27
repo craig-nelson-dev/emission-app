@@ -1,28 +1,31 @@
 {
-    "data": [
-        {
-            "id": 0,
-            "name": "European Quest",
-            "country": 8,
-            "day": 21,
-            "emissionsOffset": 810,
-            "rating": 4.7
-        },
-        {
-            "id": 1,
-            "name": "Autumn Roadtrip",
-            "country": 1,
-            "day": 14,
-            "emissionsOffset": 3560,
-            "rating": 4.7
-        },
-        {
-            "id": 2,
-            "name": "Diving adventure in Egypt",
-            "country": 1,
-            "day": 5,
-            "emissionsOffset": 6290,
-            "rating": 4.7
-        }
-    ]
+  "data": [
+    {
+      "id": 0,
+      "name": "European Quest",
+      "country": 8,
+      "day": 21,
+      "emissionsOffset": 810,
+      "rating": 4.7,
+      "background": "https://cdn.dribbble.com/users/39185/screenshots/3204610/planet_16.jpg?compress=1&resize=400x300"
+    },
+    {
+      "id": 1,
+      "name": "Autumn Roadtrip",
+      "country": 1,
+      "day": 14,
+      "emissionsOffset": 3560,
+      "rating": 4.7,
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrSxy1ZhbmkxLc6-Neqslw9RSSwb69QCGeQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Diving adventure in Egypt",
+      "country": 1,
+      "day": 5,
+      "emissionsOffset": 6290,
+      "rating": 4.7,
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_616x353.jpg?t=1654808231"
+    }
+  ]
 }

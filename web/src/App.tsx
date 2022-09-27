@@ -1,10 +1,8 @@
 import React from 'react';
+import EmissionList from './pages/emission-list';
 
 function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+  return <EmissionList />;
 }
 
 export default App;
